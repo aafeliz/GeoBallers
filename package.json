@@ -1,0 +1,18 @@
+{
+  "name": "geo",
+  "version": "0.0.1",
+  "description": "A test framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gib, Johnny, Greg, Anukrati, Ariel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
